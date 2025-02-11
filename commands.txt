@@ -1,6 +1,9 @@
 git init[initializing git]
 git status[monitor untracked changes]
-git add -addgit commit -m"dusplay message"
+git add -add
+git commit -m"dusplay message"
 git push =command for adding content of local repositort to remote repository
 git clone =exact copy from remote repository
 git pull =if we need only exact changes rom local repository
+command for adding remote
+git remote add remote
